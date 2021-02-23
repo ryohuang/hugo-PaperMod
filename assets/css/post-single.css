@@ -84,6 +84,7 @@
 .post-content ol,
 .post-content p,
 .post-content ul {
+    text-indent: 2rem;
     margin-bottom: var(--content-gap)
 }
 
